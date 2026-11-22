@@ -1,0 +1,10 @@
+{
+    "total_students": 5,
+    "branches": [
+        "BAR",
+        "BCI",
+        "BCS",
+        "BMS"
+    ],
+    "average_score": 86.8
+}
